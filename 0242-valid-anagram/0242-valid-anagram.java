@@ -5,12 +5,11 @@ class Solution {
         if(s.length()!=t.length())
         return false;
 
-    char[] sArray = s.toCharArray();
-        char[] tArray = t.toCharArray();
-        
-        Arrays.sort(sArray);
-        Arrays.sort(tArray);
-        return Arrays.equals(sArray, tArray);
+   char[] ch=s.toCharArray();
+   char[] ch1=t.toCharArray();
+    Arrays.sort(ch);
+    Arrays.sort(ch1);
+     return Arrays.equals(ch,ch1);
     
       
        
