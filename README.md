@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/ShambhaviChoubey/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
+| [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShambhaviChoubey/leetcode/tree/master/0242-valid-anagram) |
+| [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +52,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
