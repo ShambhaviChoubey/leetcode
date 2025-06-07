@@ -1,15 +1,13 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int singleNumber(int[] nums) {
         Set<Integer> check = new HashSet<>();
+        int c[] = new int[1];
         for (int num : nums) {
-            if (check.contains(num)) {
+            if (check.contains(num) )
+            {
                 check.remove(num);
-            } else {
+            } else
                 check.add(num);
-            }
         }
         return check.iterator().next();
     }
