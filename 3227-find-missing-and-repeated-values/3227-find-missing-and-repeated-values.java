@@ -1,19 +1,38 @@
+
 class Solution {
-    public int[] findMissingAndRepeatedValues(final int[][] grid) {
-        final int n = grid.length * grid.length;
+    public int[] findMissingAndRepeatedValues(int[][] grid) {
+        int length = grid.length, // Dimension of the grid
+            n = length * length, // Total number of Natural numbers
+            sumOfNNaturalNumber = n * (n + 1) / 2, // Sum of all Natural numbers till n
+            repeated = 0, missing = 0, // Result
+            sum = 0; // Sum of all elements in the Grid
 
-        final int[] result = new int[2], count = new int[n + 1];
+        // Holds all visited number related information
+        boolean[] nums = new boolean[n + 1];
 
-        for(final int[] nums : grid)
-            for(final int num : nums)
-                count[num]++;
+        // Scanning each row
+        for (int i = 0; i < length; i++) {
 
-        for(int i = 1; i <= n; ++i)
-            if(count[i] == 2)
-                result[0] = i;
-            else if(count[i] == 0)
-                result[1] = i;
+            // Scanning each element in the column
+            for (int j = 0; j < length; j++) {
 
-        return result;
+                // If a number is already visited, then we have found our repeating element
+                if (nums[grid[i][j]]) {
+                    repeated = grid[i][j]; continue;
+                }
+
+                // Marking a number as visited in the nums array
+                nums[grid[i][j]] = true;
+
+                // Calculating the sum of elements in the array except for the repeated element
+                sum += grid[i][j];
+            }
+        }
+
+        // Missing element is calulcated as the difference between sum of all natural number till n and the sum of all unique elements in the grid
+        missing = sumOfNNaturalNumber - sum;
+
+        // Return response
+        return new int[] {repeated, missing};
     }
 }
