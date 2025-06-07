@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ShambhaviChoubey/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ShambhaviChoubey/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ShambhaviChoubey/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
