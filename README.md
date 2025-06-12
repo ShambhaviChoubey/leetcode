@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShambhaviChoubey/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ShambhaviChoubey/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShambhaviChoubey/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ShambhaviChoubey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShambhaviChoubey/leetcode/tree/master/0242-valid-anagram) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ShambhaviChoubey/leetcode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShambhaviChoubey/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
