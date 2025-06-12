@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShambhaviChoubey/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ShambhaviChoubey/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShambhaviChoubey/leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShambhaviChoubey/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShambhaviChoubey/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
