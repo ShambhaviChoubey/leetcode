@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShambhaviChoubey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShambhaviChoubey/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShambhaviChoubey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ShambhaviChoubey/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShambhaviChoubey/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShambhaviChoubey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ShambhaviChoubey/leetcode/tree/master/0204-count-primes) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShambhaviChoubey/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShambhaviChoubey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShambhaviChoubey/leetcode/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
