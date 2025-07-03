@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShambhaviChoubey/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ShambhaviChoubey/leetcode/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShambhaviChoubey/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ShambhaviChoubey/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
