@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ShambhaviChoubey/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/ShambhaviChoubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShambhaviChoubey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShambhaviChoubey/leetcode/tree/master/0136-single-number) |
@@ -80,6 +81,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ShambhaviChoubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -145,6 +147,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ShambhaviChoubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShambhaviChoubey/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ShambhaviChoubey/leetcode/tree/master/0792-binary-search) |
 ## Design
