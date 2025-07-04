@@ -15,6 +15,7 @@
 | [0204-count-primes](https://github.com/ShambhaviChoubey/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/ShambhaviChoubey/leetcode/tree/master/0792-binary-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShambhaviChoubey/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/ShambhaviChoubey/leetcode/tree/master/0792-binary-search) |
 ## Design
 |  |
 | ------- |
