@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ShambhaviChoubey/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
+| [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@
 | [0020-valid-parentheses](https://github.com/ShambhaviChoubey/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShambhaviChoubey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShambhaviChoubey/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShambhaviChoubey/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
