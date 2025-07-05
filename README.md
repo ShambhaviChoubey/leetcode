@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ShambhaviChoubey/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ShambhaviChoubey/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/ShambhaviChoubey/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShambhaviChoubey/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ShambhaviChoubey/leetcode/tree/master/0567-permutation-in-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
