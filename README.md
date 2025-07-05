@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ShambhaviChoubey/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ShambhaviChoubey/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/ShambhaviChoubey/leetcode/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShambhaviChoubey/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ShambhaviChoubey/leetcode/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/ShambhaviChoubey/leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
