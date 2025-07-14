@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/ShambhaviChoubey/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShambhaviChoubey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ShambhaviChoubey/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShambhaviChoubey/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/ShambhaviChoubey/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ShambhaviChoubey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ShambhaviChoubey/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShambhaviChoubey/leetcode/tree/master/0328-odd-even-linked-list) |
