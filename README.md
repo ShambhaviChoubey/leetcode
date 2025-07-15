@@ -64,6 +64,7 @@
 | [0205-isomorphic-strings](https://github.com/ShambhaviChoubey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShambhaviChoubey/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ShambhaviChoubey/leetcode/tree/master/0567-permutation-in-string) |
+| [3396-valid-word](https://github.com/ShambhaviChoubey/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
