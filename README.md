@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ShambhaviChoubey/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ShambhaviChoubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShambhaviChoubey/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ShambhaviChoubey/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/ShambhaviChoubey/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ShambhaviChoubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShambhaviChoubey/leetcode/tree/master/0141-linked-list-cycle) |
